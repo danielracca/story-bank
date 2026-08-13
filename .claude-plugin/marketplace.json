@@ -1,0 +1,14 @@
+{
+  "name": "story-bank",
+  "owner": {
+    "name": "Daniel Racca",
+    "url": "https://danielracca.com"
+  },
+  "plugins": [
+    {
+      "name": "story-bank",
+      "source": "./",
+      "description": "Interviews you to capture the stories scattered in your head, structures them so they are memorable and repeatable, and pulls up the right one when you need it. For interviews, client calls, talks, and building rapport."
+    }
+  ]
+}
