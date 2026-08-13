@@ -1,0 +1,17 @@
+{
+  "name": "story-bank",
+  "version": "0.1.0",
+  "description": "Interviews you to capture the stories scattered in your head, structures them so they are memorable and repeatable, and pulls up the right one when you need it — for interviews, client calls, talks, or building rapport.",
+  "author": {
+    "name": "Daniel Racca"
+  },
+  "keywords": [
+    "storytelling",
+    "interview-prep",
+    "communication",
+    "sales",
+    "public-speaking",
+    "personal-brand"
+  ],
+  "license": "MIT"
+}
